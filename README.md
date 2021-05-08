@@ -1,6 +1,6 @@
 
 this is my first react project
-i want to react by doing something 
+i want learn to react by doing something 
 so i tried this
 
 
